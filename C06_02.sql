@@ -1,0 +1,1 @@
+SETECT * FROM SampleMath;
